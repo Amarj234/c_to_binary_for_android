@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Android NDK version and download URL
-NDK_VERSION="r27c"
-NDK_DMG_URL="https://dl.google.com/android/repository/android-ndk-${NDK_VERSION}-darwin.dmg"
+NDK_VERSION="r21e"
+NDK_DMG_URL="https://dl.google.com/android/repository/android-ndk-r21e-darwin-x86_64.zip"
 NDK_DMG_FILE="android-ndk-${NDK_VERSION}-darwin.dmg"
 MOUNT_POINT="/Volumes/NDK"
 
